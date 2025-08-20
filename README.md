@@ -36,7 +36,7 @@ It demonstrates the basic CI/CD flow of compiling and packaging a Java applicati
 ## 📷 Deliverable
 - Screenshot of Jenkins console output showing **successful build** (`BUILD SUCCESS`).
 - ![jenkins build](1.png)
-- ![jenkins output] (2.png)  
+- ![jenkins output](2.png)  
 
 ---
 
